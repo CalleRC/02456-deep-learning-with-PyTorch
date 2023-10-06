@@ -104,3 +104,11 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+
+4_Convolutional/data/
+
+6_Mini_Project/images/
+6_Mini_Project/test.csv
+6_Mini_Project/train.csv
+6_Mini_Project/sample_submission.csv
